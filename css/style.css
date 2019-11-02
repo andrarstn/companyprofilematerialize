@@ -1,0 +1,33 @@
+.slider h3,
+.slider h5 {
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5) !important;
+}
+
+.parallax-container {
+    height: 25%;
+}
+
+.parallax img {
+    width: 25%;
+    filter: grayscale(1);
+    opacity: 0.8 !important;
+}
+
+.socmed img {
+    max-width: 250px;
+}
+
+.services h3 {
+    margin-top: 0;
+    padding: 20px 0px;
+}
+
+.contact {
+    margin-top: 0;
+    padding: 10px 0px;
+}
+
+footer {
+    margin-top: 0;
+    padding: 20px 0px;
+}
